@@ -1,5 +1,5 @@
 # PlantsVs.ZombiesTools
-¨Ï¥Î[Cheat Engine](https://www.cheatengine.org/)©w¦ì¹CÀ¸°Ñ¼Æ°O¾ĞÅé¦ì¸m¨Ã¨Ï¥Î¸Ó¦ì¸m¶}µoµ{¦¡­×§ï¹CÀ¸°Ñ¼Æ
+ä½¿ç”¨[Cheat Engine](https://www.cheatengine.org/)å®šä½éŠæˆ²åƒæ•¸è¨˜æ†¶é«”ä½ç½®ä¸¦ä½¿ç”¨è©²ä½ç½®é–‹ç™¼ç¨‹å¼ä¿®æ”¹éŠæˆ²åƒæ•¸
 
 # Environment
 - WinForm
@@ -12,7 +12,7 @@
 Just clone and build project.
 
 # Tutorial
-±Ğ¾Ç¼v¤ù: [https://www.bilibili.com/video/BV1k441157i2?p=1]()
+æ•™å­¸å½±ç‰‡: [https://www.bilibili.com/video/BV1k441157i2?p=1]()
 
 # Reference
 [https://ggheart999.blogspot.com/2018/08/megapcslgplants-vs-zombies.html]()
