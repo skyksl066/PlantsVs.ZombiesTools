@@ -18,3 +18,4 @@ Just clone and build project.
 
 # Reference
 [https://ggheart999.blogspot.com/2018/08/megapcslgplants-vs-zombies.html]()
+[CE修改器使用教程 (入门篇)](https://www.cnblogs.com/LyShark/p/10799926.html)
